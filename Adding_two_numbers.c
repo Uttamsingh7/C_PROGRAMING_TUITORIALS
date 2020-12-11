@@ -22,6 +22,5 @@ void main()
 	sum = num1 + num2;
 
 	printf ("sum of num1= %d, num2=%d is %d\n", num1, num2, sum);
-
 }
 
