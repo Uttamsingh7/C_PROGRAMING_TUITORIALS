@@ -1,5 +1,5 @@
 /*
-*      File Name: Hello_world.c
+*      File Name: Multiply_two_numbers.c
 *      Date: 16/12/2020
 *
 *      Tuitor: Uttam Kumar 
