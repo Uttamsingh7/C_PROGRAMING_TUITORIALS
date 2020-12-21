@@ -7,7 +7,7 @@
 *      Email Id: uttambsdc2@gmail.com
 */
 
-/* Description: C program to checking wheather entered number is prime or not*/
+/* Description: C program to checking whether entered number is prime or not*/
 
 #include<stdio.h>
 #include<stdbool.h>
