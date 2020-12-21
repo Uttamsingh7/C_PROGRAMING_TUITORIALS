@@ -1,5 +1,5 @@
 /*
-*      File Name: Hello_world.c
+*      File Name: Multiply_two_numbers.c
 *      Date: 16/12/2020
 *
 *      Tuitor: Uttam Kumar 
@@ -7,7 +7,7 @@
 *      Email Id: uttambsdc2@gmail.com
 */
 
-/* Description: C program to Multiplication two numbers. */
+/* Description: C program to Multiplication of two numbers. */
 
 
 #include<stdio.h>
