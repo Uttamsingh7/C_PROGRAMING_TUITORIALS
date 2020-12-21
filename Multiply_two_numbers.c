@@ -7,7 +7,7 @@
 *      Email Id: uttambsdc2@gmail.com
 */
 
-/* Description: C program to Multiplication two numbers. */
+/* Description: C program to Multiplication of two numbers. */
 
 
 #include<stdio.h>
