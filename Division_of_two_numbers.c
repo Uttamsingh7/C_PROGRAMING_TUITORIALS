@@ -1,3 +1,15 @@
+/*
+*      File Name: Adding_two_numbers.c
+*      Date:21/12/2020
+*
+*      Tuitor: Uttam Kumar 
+*
+*      Email Id: uttambsdc2@gmail.com
+*/
+
+/* Description: C program to divide two numbers. */
+
+
 #include<stdio.h>
 
 int main()
