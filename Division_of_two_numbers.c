@@ -9,8 +9,6 @@
 
 /* Description: C program to divide two numbers. */
 
-/* Description: C program to division of two numbers. */
-
 #include<stdio.h>
 
 int main()
