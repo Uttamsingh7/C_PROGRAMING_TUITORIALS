@@ -7,7 +7,7 @@
 *      Email Id: uttambsdc2@gmail.com
 */
 
-/* Description: C program to division of two numbers. */
+/* Description: C program to divide two numbers. */
 
 #include<stdio.h>
 
