@@ -1,3 +1,15 @@
+/*
+*      File Name: Printing_numbers_1_to_100
+*      Date: 22/12/2020
+*
+*      Tuitor: Uttam Kumar 
+*
+*      Email Id: uttambsdc2@gmail.com
+*/
+
+/* Description: C program to printing 1 to 100 numbers. */
+
+
 #include<stdio.h>
 
 

@@ -1,6 +1,6 @@
 /*
-*      File Name: Adding_two_numbers.c
-*      Date:21/12/2020
+*      File Name: Division_of_two_numbers.c
+*      Date: 16/12/2020
 *
 *      Tuitor: Uttam Kumar 
 *
@@ -9,6 +9,7 @@
 
 /* Description: C program to divide two numbers. */
 
+/* Description: C program to division of two numbers. */
 
 #include<stdio.h>
 
