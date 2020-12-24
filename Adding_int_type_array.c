@@ -7,7 +7,7 @@
 *      Email Id: uttambsdc2@gmail.com
 */
 
-/* Description: C program to print sum of int type array. */
+/* Description: C program to print sum of int type array. *  */
 
 #include<stdio.h>
 
