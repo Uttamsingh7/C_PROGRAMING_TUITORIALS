@@ -1,3 +1,14 @@
+/*
+*      File Name: Adding_int_type_array.c.c
+*      Date: 24/12/2020
+*
+*      Tuitor: Uttam Kumar 
+*
+*      Email Id: uttambsdc2@gmail.com
+*/
+
+/* Description: C program to print sum of int type array. *  */
+
 #include<stdio.h>
 
 int main ()
