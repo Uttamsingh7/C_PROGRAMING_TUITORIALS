@@ -40,6 +40,9 @@ int main()
 			break;
 		case 6:
 			printf ("Saturday\n");
+			break;
+		default:
+			printf ("Entered invalid day number\n");
 	}
 
 	return 0;
