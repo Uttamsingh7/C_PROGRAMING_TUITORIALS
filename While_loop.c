@@ -1,5 +1,5 @@
 /*
- *      File Name: For_loop.c
+ *      File Name: While_loop.c
  *      Date:24/12/2020
  *
  *      Tuitor: Uttam Kumar 
