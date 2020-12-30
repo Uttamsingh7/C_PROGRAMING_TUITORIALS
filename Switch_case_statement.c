@@ -5,9 +5,9 @@
  *      Tuitor: Uttam Kumar 
  *
  *      Email Id: uttambsdc2@gmail.com
- */
+ *
 
-/* Description: C program to checking conditional statement. */
+* Description: C program to checking conditional statement. */
 
 #include<stdio.h>
 
