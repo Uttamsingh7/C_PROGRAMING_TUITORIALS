@@ -1,3 +1,14 @@
+/*
+*      File Name: Division_of_two_numbers.c
+*      Date: 16/12/2020
+*
+*      Tuitor: Uttam Kumar 
+*
+*      Email Id: uttambsdc2@gmail.com
+*/
+
+/* Description: C program to divide two numbers. */
+
 #include<stdio.h>
 
 int main()
