@@ -5,9 +5,9 @@
  *      Tuitor: Uttam Kumar 
  *
  *      Email Id: uttambsdc2@gmail.com
- */
+ *
 
-/* Description: C program to checking conditional statement. */
+* Description: C program to checking conditional statement. */
 
 #include<stdio.h>
 
@@ -31,8 +31,8 @@ int main()
 			break;
 		case 3:
 			printf ("Wednesday\n");
-		case 4:
 			break;
+		case 4:
 			printf ("Thursday\n");
 			break;
 		case 5:
