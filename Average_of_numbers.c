@@ -13,12 +13,12 @@
 #include<stdio.h>
 int main()
 {
-	int k, sum=0, i;
+	int  k, sum=0, i;
 
 	printf ("How many number'you want to average?\n Enter the number");
 	scanf ("%d",&k);
-
 	int a[k];
+
 	printf ("Enter %d numbers\n",k);
 
 	for (i=0; i<k; i++)
