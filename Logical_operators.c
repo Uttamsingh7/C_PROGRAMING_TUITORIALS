@@ -1,5 +1,5 @@
 /*
-*      File Name: Relational_operators.c
+*      File Name:Logical_oprators.c
 *
 *      Date:29/01/2021
 *
@@ -8,7 +8,7 @@
 *      Email Id: uttambsdc2@gmail.com
 *
 *
-*  Description: Relational operators-
+*  Description: Logical oprators
 *		
 *		NOT operator	!	perform on only 1 oprands.
 *		AND operator	&&	perform on two oprands.
