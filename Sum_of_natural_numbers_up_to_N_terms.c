@@ -13,7 +13,7 @@
 int main ()
 {
 	int sum=0, i, num;
-	printf("Enter a number:\n");
+	printf("Enter terms till where to print sum:\n");
 	scanf ("%d", &num);
 
 	for (i=1; i<=num; i++)
