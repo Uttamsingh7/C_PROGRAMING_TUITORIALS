@@ -1,5 +1,5 @@
 /*
-*      File Name:Logical_oprators.c
+*      File Name:Logical_operators.c
 *
 *      Date:29/01/2021
 *
@@ -8,11 +8,11 @@
 *      Email Id: uttambsdc2@gmail.com
 *
 *
-*  Description: Logical oprators
+*  Description: Logical operators
 *		
 *		NOT operator	!	perform on only 1 oprands.
 *		AND operator	&&	perform on two oprands.
-8		OR operator	||	perform on two oprands.
+*		OR operator	||	perform on two oprands.
 *
 *		! -- inverts the truth value of satatement.
 *		&& -- if both statements are true then return 1 otherwise return 0.
